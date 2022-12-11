@@ -2,7 +2,7 @@
 ---
 
 ## Yury Piskunou
-***
+
 Junior Java Developer
 ---
 **Phone:** +375 33 6458759
@@ -18,7 +18,7 @@ Friendly personality. Up to team work on interesting projects.
 **Skill proficiency:**
 + C#
 + Java/Spring
-+ Machine Learning
++ Machine Learning / Python
 ---
 
 **Code example:**
