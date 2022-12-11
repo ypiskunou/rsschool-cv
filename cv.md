@@ -2,20 +2,22 @@
 ---
 
 ## Yury Piskunou
-****
+***
 Junior Java Developer
-****
+---
 **Phone:** +375 33 6458759
 **Email:** ypiskunou@gmail.com
 
+---
 **Briefly about myself:**
+
 Friendly personality. Up to team work on interesting projects.
 ---
 
 
 **Skill proficiency:**
 + C#
-+ Java
++ Java/Spring
 + Machine Learning
 ---
 
